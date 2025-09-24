@@ -129,6 +129,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Users\anhtu\Downloads\Documents\01_hello_SDL\01_hello_SDL.cpp" />
+    <ClCompile Include="..\..\Users\anhtu\Downloads\Documents\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Users\anhtu\Downloads\Documents\02_getting_an_image_on_the_screen\hello_world.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

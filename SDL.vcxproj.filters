@@ -18,5 +18,13 @@
     <ClCompile Include="..\..\Users\anhtu\Downloads\Documents\01_hello_SDL\01_hello_SDL.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Users\anhtu\Downloads\Documents\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Users\anhtu\Downloads\Documents\02_getting_an_image_on_the_screen\hello_world.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
